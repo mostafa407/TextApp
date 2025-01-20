@@ -17,7 +17,7 @@ Key Features:
 
 - **User Reviews**: Read and submit answers and show result.
 
-**Technologies**: API, Dart,
+**Technologies**: API, Dart, bloc
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
