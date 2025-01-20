@@ -1,12 +1,23 @@
 # testquizapp
 
-A new Flutter project.
-
+flutter QuizApp 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+1. [TestAppQuiz](https://github.com/mostafa407/TextApp)
+
+Description: A Flutter app quiz have some questions and splash screen and result resulr
+
+make quiz
+
+Key Features:
+
+- **Comprehensive Quiz Details**: make a quiz have just few questions.
+
+- **User Reviews**: Read and submit answers and show result.
+
+**Technologies**: API, Dart,
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
